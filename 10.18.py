@@ -45,9 +45,3 @@ for he in hero:
         # write = csv.writer(f)
         # write.writerow(row1)
 
-
-
-
-# page = html.etree.HTML(response.text)
-# jd = page.xpath('//ul[@class="swiper-slide swiper-slide-visible swiper-slide-active"]/li/p/text()')
-# print(jd)
